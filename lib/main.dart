@@ -21,7 +21,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     final materialApp = MaterialApp(
       theme: theme,
-      home: Text('Flutter Demo Home Page'), // Todo ...,
+      home: Text('it\'s second change on code base'), // Todo ...,
     );
     return materialApp;
   }
