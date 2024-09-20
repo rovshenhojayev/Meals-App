@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:meals/screens/categories.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 final theme = ThemeData(
@@ -21,7 +21,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     final materialApp = MaterialApp(
       theme: theme,
-      home: Text('it\'s second change on code base'), // Todo ...,
+      home: const CategoriesScreen(), // Todo ...,
     );
     return materialApp;
   }
