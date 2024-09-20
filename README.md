@@ -12,7 +12,7 @@ A simple Flutter app that showcases meal categories and details, with multi-scre
 
 1.Clone the repository:
 ```
-git clone https://github.com/rovshenhojayev/meals-app.git
+git clone https://github.com/rovshenhojayev/Meals-App/)
 ```
 2.Install dependencies:
 ```
