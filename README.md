@@ -4,11 +4,12 @@ A simple Flutter app that showcases meal categories and details, with multi-scre
 
 ## Features
 
-*Browse meal categories
-*View detailed meal information
-*Navigate between multiple screens
+* Browse meal categories
+* View detailed meal information
+* Navigate between multiple screens
 
-##Getting Started
+## Getting Started
+
 1.Clone the repository:
 ```
 git clone https://github.com/yourusername/meals-app.git
